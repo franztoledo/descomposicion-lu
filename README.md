@@ -40,5 +40,5 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 \
    La aplicación se abrirá automáticamente en tu navegador web.
 ## **Autor**
-- **Wilber Toledo **
+- **Wilber Toledo**\
 
