@@ -39,7 +39,6 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
    streamlit run app.py\
 \
    La aplicación se abrirá automáticamente en tu navegador web.
-## **Autores**
-- *(Tu Nombre Completo)*
-- *(Nombre Completo del Integrante 2)*
-- *(etc...)*
+## **Autor**
+- *Wilber Toledo *
+
